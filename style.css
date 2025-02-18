@@ -1,0 +1,27 @@
+body{
+	background-image: url(https://i.pinimg.com/736x/32/81/b9/3281b9c98a0c5627072e6ffedf6f8462.jpg);
+	background-size: 100%;
+}
+.container{
+	margin-top:20px;
+	background-color: #FFEEF2;
+	padding: 5px;
+}
+img {
+	height: 250px;
+}
+.footer {
+    background-color: #FFEEF2;
+    color: black;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;}
+
+a {
+	text-decoration: none;
+	color: black;}
+a:hover {
+	color:#FF92C2;
+}
